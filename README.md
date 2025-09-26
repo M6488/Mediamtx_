@@ -1,4 +1,5 @@
 📹 MediaMTX com Transcodificação de Câmeras RTSP
+
 Olá, nesse arquivo vamos esclarecer o processor de cofiguração e uso de uma parte essencial do nosso projeto. Este projeto utiliza o MediaMTX (antigo rtsp-simple-server) para gerenciar e servir múltiplas câmeras RTSP. Algumas câmeras funcionam diretamente, enquanto outras precisam passar por uma etapa de transcodificação com FFmpeg para serem acessíveis de forma estável.
 
 🔧 Pré-requisitos
